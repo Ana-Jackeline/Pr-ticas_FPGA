@@ -20,9 +20,9 @@ Desenvolver um circuito lógico para apresentar uma **unidade lógico-aritmétic
 ### ⚙️ Prática 8  
 Implementar um circuito que calcula a saída \( s \) como:  
 
-\[
+$$
 s = |\Delta| = b^2 - 4c
-\]  
+$$
 
 - As entradas **\( b \) e \( c \)** são de **4 bits**  
 - A saída **\( s \)** tem **8 bits**  
@@ -31,3 +31,4 @@ s = |\Delta| = b^2 - 4c
 
 ### ⚙️ Prática 9  
 Desenvolver um **contador de módulo 60**, correspondente a um **mostrador de segundos** em um **relógio digital**.  
+
